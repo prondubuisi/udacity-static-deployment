@@ -14,7 +14,7 @@ Udacity Static Website Deployment Project Submission Files
 <img width="1345" alt="image" src="https://user-images.githubusercontent.com/22311928/170896968-39c6c6e6-6fc2-436f-bdd9-801e2cbe5e38.png">
 
 ### Website Destribution Screenshot
-<img width="1345" alt="image" src="https://user-images.githubusercontent.com/22311928/170897117-ed4750d3-4222-43bd-87f7-280548a647c1.png">
+<img width="1507" alt="image" src="https://user-images.githubusercontent.com/22311928/170922480-98c77f29-0b02-4630-8bd0-7bf968d4a627.png">
 
 #### Public URLS
 
